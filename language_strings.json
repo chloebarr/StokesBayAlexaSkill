@@ -1,0 +1,13 @@
+{
+	"en": {
+		"SKILL_NAME": "Wind direction",
+		"HELP_MESSAGE": "I can tell you what the wind direction in the solent is",
+		"HELP_REPROMPT": "DO you even sail?",
+		"FALLBACK_MESSAGE": "I'm not sure that has anything to do with the wind direction",
+		"FALLBACK_REPROMPT": "What can I help you with?",
+		"ERROR_MESSAGE": "Sorry, an error occurred.",
+		"STOP_MESSAGE": "Goodbye!",
+		"WINDDIRECTION_MESSAGE": "The wind direction at stokes bay is ",
+		"WINDSPEED_MESSAGE": " and the wind speed is "
+	}
+}
